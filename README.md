@@ -10,4 +10,4 @@ This repository contains code to model CLOS and SWIFT NOC architecture.
   volume={},
   number={},
   pages={1-8},
-  doi={10.1109/NOCS50636.2020.9241712}}```
+  doi={10.1109/NOCS50636.2020.9241712}}
