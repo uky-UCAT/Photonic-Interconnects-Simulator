@@ -1,0 +1,11 @@
+sample print: ./etc/dedup_modified.txt
+Number of values read from ./etc/dedup_modified.txt file are 1759214
+First Line 10001.2 02 MemRead
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 3554426
+% Global average delay (cycles): 210197
+% Global average throughput (flits/cycle): 5.59364
+% Energy per bit (J/bit):4.67915e-13
+% Average power dissipation (W):0.837552
+% Max delay (cycles): 913206

@@ -1,0 +1,11 @@
+sample print: ./etc/swaptions_modified.txt
+Number of values read from ./etc/swaptions_modified.txt file are 1000001
+First Line 10001.0 03 MemWrite
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1445714
+% Global average delay (cycles): 152140
+% Global average throughput (flits/cycle): 3.62611
+% Energy per bit (J/bit):2.93585e-13
+% Average power dissipation (W):0.340663
+% Max delay (cycles): 688428

@@ -1,0 +1,11 @@
+sample print: ./etc/facesim_modified.txt
+Number of values read from ./etc/facesim_modified.txt file are 1681333
+First Line 10000.8 05 MemRead
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 2797325
+% Global average delay (cycles): 246175
+% Global average throughput (flits/cycle): 3.17452
+% Energy per bit (J/bit):6.48869e-13
+% Average power dissipation (W):0.659151
+% Max delay (cycles): 982561

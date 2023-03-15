@@ -1,0 +1,11 @@
+sample print: ./etc/fluidanimate_modified.txt
+Number of values read from ./etc/fluidanimate_modified.txt file are 980692
+First Line 10000.6 02 MemRead
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1318501
+% Global average delay (cycles): 157179
+% Global average throughput (flits/cycle): 3.00789
+% Energy per bit (J/bit):3.22783e-13
+% Average power dissipation (W):0.310687
+% Max delay (cycles): 568944

@@ -1,0 +1,6 @@
+sample print: ./etc/blackscholes_modified.txt
+Number of values read from ./etc/blackscholes_modified.txt file are 942789
+First Line 10000 02 MemRead
+flit_rx[i][j]
+Error: (E112) get interface failed: port is not bound: port 'NoC.Tile[00][00].port_3' (sc_in)
+In file: ../../../../src/sysc/communication/sc_port.cpp:232

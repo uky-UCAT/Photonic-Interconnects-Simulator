@@ -1,0 +1,11 @@
+sample print: ./etc/ferret_modified.txt
+Number of values read from ./etc/ferret_modified.txt file are 1007940
+First Line 10001.0 02 MemRead
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1949990
+% Global average delay (cycles): 122576
+% Global average throughput (flits/cycle): 5.26776
+% Energy per bit (J/bit):2.72583e-13
+% Average power dissipation (W):0.459489
+% Max delay (cycles): 537375

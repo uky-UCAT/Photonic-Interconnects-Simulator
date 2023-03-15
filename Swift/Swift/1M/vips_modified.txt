@@ -1,0 +1,11 @@
+sample print: ./etc/vips_modified.txt
+Number of values read from ./etc/vips_modified.txt file are 1000001
+First Line 10002.4 02 MemRead
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1345325
+% Global average delay (cycles): 164302
+% Global average throughput (flits/cycle): 3.09792
+% Energy per bit (J/bit):3.19779e-13
+% Average power dissipation (W):0.317007
+% Max delay (cycles): 561623

@@ -1,0 +1,11 @@
+sample print: ./etc/freqmine_modified.txt
+Number of values read from ./etc/freqmine_modified.txt file are 1017215
+First Line 10002.0 02 MemWrite
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1995631
+% Global average delay (cycles): 124711
+% Global average throughput (flits/cycle): 5.32157
+% Energy per bit (J/bit):2.76142e-13
+% Average power dissipation (W):0.470243
+% Max delay (cycles): 566225

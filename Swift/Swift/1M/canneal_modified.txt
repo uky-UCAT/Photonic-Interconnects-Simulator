@@ -1,0 +1,11 @@
+sample print: ./etc/canneal_modified.txt
+Number of values read from ./etc/canneal_modified.txt file are 1091877
+First Line 10000.8 02 MemWrite
+Reset... done! Now running for 1000000 cycles...
+Note: VCD trace timescale unit is set by user to 1.000000e-10 sec.
+% Total received packets: 1523794
+% Global average delay (cycles): 168552
+% Global average throughput (flits/cycle): 3.19694
+% Energy per bit (J/bit):3.50982e-13
+% Average power dissipation (W):0.359061
+% Max delay (cycles): 577624
