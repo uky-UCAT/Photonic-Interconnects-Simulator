@@ -1,7 +1,7 @@
 # Network_On_Chip_Simulator
 This repository contains code to model CLOS and SWIFT NOC architecture. 
 
-# Kindly cite us if you use the code:
+###Kindly cite us if you use the code:
 ```
 @INPROCEEDINGS{9241712,
   author={Vatsavai, Sairam Sri and Karempudi, Venkata Sai Praneeth and Thakkar, Ishan},
