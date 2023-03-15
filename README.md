@@ -1,4 +1,4 @@
-# Network_On_Chip_Simulator
+# Photonic_Interconnects_Simulator
 This repository contains code to model CLOS and SWIFT NOC architecture. 
 
 ### Kindly cite us if you use the code:
