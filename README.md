@@ -2,7 +2,8 @@
 This repository contains code to model CLOS and SWIFT NOC architecture. 
 
 # Kindly cite us if you use the code:
-```@INPROCEEDINGS{9241712,
+```
+@INPROCEEDINGS{9241712,
   author={Vatsavai, Sairam Sri and Karempudi, Venkata Sai Praneeth and Thakkar, Ishan},
   booktitle={2020 14th IEEE/ACM International Symposium on Networks-on-Chip (NOCS)}, 
   title={PROTEUS: Rule-Based Self-Adaptation in Photonic NoCs for Loss-Aware Co-Management of Laser Power and Performance}, 
